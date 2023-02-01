@@ -1,6 +1,6 @@
 # PwndPasswd
 
-Using the haveibeenpwnd password API
+Using the haveibeenpwnd password API with Python3
 
 run via the command line:
 
