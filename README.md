@@ -17,5 +17,11 @@ pwnd_cnt = check("your_password")
 print(pwnd_cnt)
 ```
 
-Working as of Feb 1st, 2023
+install deps
+
+```
+pip install -r requirements.txt
+```
+
+Working as of Feb 2nd, 2023
 
